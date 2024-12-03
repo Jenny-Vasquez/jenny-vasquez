@@ -13,11 +13,11 @@
 
 ## Proyectos
 
-[Crud Pokemon PHP](https://github.com/Jenny-Vasquez/Crud-pokemon)
+- [Crud Pokemon PHP](https://github.com/Jenny-Vasquez/Crud-pokemon)
 
-[Crud Pokemon PHP-Laravel](https://github.com/Jenny-Vasquez/pokemonApp-Laravel)
+- [Crud Pokemon PHP-Laravel](https://github.com/Jenny-Vasquez/pokemonApp-Laravel)
 
-[Upload-Image-Laravel](https://github.com/Jenny-Vasquez/Upload-Image)
+- [Upload-Image-Laravel](https://github.com/Jenny-Vasquez/Upload-Image)
   
 ### ⚙️ &nbsp;GitHub Analytics
 
