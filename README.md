@@ -11,6 +11,14 @@
 
 🎯 Mi objetivo es aplicar tanto mis habilidades de gestión como mi experiencia técnica para contribuir al crecimiento de la empresa.
 
+## Proyectos
+
+[Crud Pokemon PHP](https://github.com/Jenny-Vasquez/Crud-pokemon)
+
+[Crud Pokemon PHP-Laravel](https://github.com/Jenny-Vasquez/pokemonApp-Laravel)
+
+[Upload-Image-Laravel](https://github.com/Jenny-Vasquez/Upload-Image)
+  
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
