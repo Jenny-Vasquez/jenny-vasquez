@@ -12,7 +12,7 @@
 🎯 Mi objetivo es aplicar tanto mis habilidades de gestión como mi experiencia técnica para contribuir al crecimiento de la empresa.
 
 ## Proyectos
-  * Desarrollo Entorno Web Cliente
+  ### Desarrollo Entorno Web Cliente
   
 - [Tamagotchi con WebSockets](https://github.com/Jenny-Vasquez/Tamagochi)
   
@@ -20,7 +20,7 @@
 
 - [Proyecto de Notas](https://github.com/Jenny-Vasquez/Practica1.-DOM-REST-API)
 
- * Desarrollo Entorno Web Servidor
+ ### Desarrollo Entorno Web Servidor
   
 - [ReclosetApp](https://github.com/Jenny-Vasquez/recloset_app)
   
